@@ -8,4 +8,5 @@ edition = "2021"
 [dependencies]
 fft = "0.4.0"
 plotters = "0.3.4"
+rustfft = "6.1.0"
 wav = "1.0.0"
